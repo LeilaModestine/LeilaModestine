@@ -1,6 +1,5 @@
 
-
-<h2 align=center>Data Governance & Curation | Mapping the Data Universe<h2/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&weight=200&pause=1000&color=9F6216&width=435&lines=Welcome+%F0%9F%92%AB;Here+I+mapping+the+Data+Universe;For+Governance+%26+Curation)](https://git.io/typing-svg)
 
 ---
 
