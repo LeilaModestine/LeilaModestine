@@ -1,6 +1,8 @@
 
+![Space Stars GIF by Northwood Church](https://github.com/user-attachments/assets/28ab0a50-dc84-4f05-be22-7cc9617b60ad)
 
-# Data Governance & Curation | DMBOK2 in Progress
+
+## Data Governance & Curation | DMBOK2 in Progress
 
 ---
 
