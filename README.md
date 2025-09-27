@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/ba227e41-2cd4-4c65-b4d0-e7387d72f6b7"
+    src="https://github.com/user-attachments/assets/2d883ec8-a807-4043-8e8c-9ba6d4feef02"
     alt="Cosmic Banner"
     width="800"
     height="200"
