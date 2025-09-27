@@ -1,6 +1,6 @@
 
 
-<h2 align=center>Data Governance & Curation | DMBOK2 in Progress<h2/>
+<h2 align=center>Data Governance & Curation | Mapping the Data Universe<h2/>
 
 ---
 
