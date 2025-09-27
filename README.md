@@ -4,8 +4,7 @@
     alt="Cosmic Banner"
     width="800"
     height="200"
-    style="object-fit: cover;"
-  />
+    style="object-fit: cover;"/>
 </p>
 
 
