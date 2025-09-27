@@ -6,8 +6,9 @@
 
 
 
-
+<p align="center">
 ## Data Governance & Curation | DMBOK2 in Progress
+</p>
 
 ---
 
