@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="![photo-1518066000714-58c45f1a2c0a](https://github.com/user-attachments/assets/d8c10a81-07a3-4929-be84-31e81033e17d)"
-       alt="Cosmic Banner" 
-       width="800%" />
+  <img
+    src="https://github.com/user-attachments/assets/d8c10a81-07a3-4929-be84-31e81033e17d"
+    alt="Cosmic Banner"
+    width="100%"
+  />
 </p>
 
 
 
-<p align="center">
 ## Data Governance & Curation | DMBOK2 in Progress
-</p>
 
 ---
 
