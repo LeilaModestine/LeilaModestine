@@ -1,5 +1,35 @@
 ## Hi there 👋
 
+# 🚀✨ Creative Tech Explorer
+
+Hi, I’m **Leïla** from Paris 🌍  
+Exploring Data Governance & Curation | DMBOK2 in Progress 🌌  
+
+---
+
+### 🌠 About me
+- 💾 Learning SQL, Python & Data Quality  
+- 📚 Studying **DAMA-DMBOK2**  
+- 🌌 Passion: turning messy data into harmonic constellations  
+
+---
+
+### 🔧 Tools & Skills
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+### 📂 My Projects
+- [SQL Basics](#) → first queries and exercises  
+- [Data Quality Demo](#) → cleaning messy datasets  
+- [Mini Data Catalog](#) → metadata documentation practice  
+
+---
+
+✨ *“Mapping the Data Universe, one dataset at a time.”*
+
 <!--
 **LeilaModestine/LeilaModestine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
