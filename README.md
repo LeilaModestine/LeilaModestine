@@ -1,8 +1,6 @@
-## Hi there 👋
 
-# 🚀✨ Creative Tech Explorer
 
-Hi, I’m **Leïla** from Paris 🌍  
+Hi, I’m **Leïla** from Paris, France, Earth 🌍  
 Exploring Data Governance & Curation | DMBOK2 in Progress 🌌  
 
 ---
