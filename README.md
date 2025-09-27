@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "[Space Stars GIF by Northwood Church](https://github.com/user-attachments/assets/28ab0a50-dc84-4f05-be22-7cc9617b60ad)"
+  <img src= "https://github.com/user-attachments/assets/28ab0a50-dc84-4f05-be22-7cc9617b60ad)"
        alt="Cosmic Banner" 
        width="800%" />
 </p>
