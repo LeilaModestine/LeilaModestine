@@ -11,9 +11,9 @@
 
 ---
 
-### 🔧 Tools & Skills
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+### 🔧 My Toolbox
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
