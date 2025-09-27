@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=200&size=30&pause=1000&color=B4630A&width=490&height=60&lines=Welcome+%F0%9F%92%AB;Here+I'm+mapping+the+Data+Universe;for+Governance+%26+Curation+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=200&size=30&pause=1000&color=D59E10&width=490&height=60&lines=Welcome+%F0%9F%92%AB;Here+I'm+mapping+the+Data+Universe;for+Governance+%26+Curation+.)](https://git.io/typing-svg)
 
 ---
 
