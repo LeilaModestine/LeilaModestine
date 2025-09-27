@@ -1,6 +1,6 @@
 
 
-#Data Governance & Curation | DMBOK2 in Progress#
+# Data Governance & Curation | DMBOK2 in Progress
 
 ---
 
