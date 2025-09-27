@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/32cbba0d-b90c-4054-9489-51e9e75bb242)"
+    src="https://github.com/user-attachments/assets/32cbba0d-b90c-4054-9489-51e9e75bb242"
     alt="Cosmic Banner"
     width="100%"
   />
@@ -8,7 +8,7 @@
 
 
 
-## Data Governance & Curation | DMBOK2 in Progress
+<h2 align=center>Data Governance & Curation | DMBOK2 in Progress<h2/>
 
 ---
 
