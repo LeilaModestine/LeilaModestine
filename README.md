@@ -9,6 +9,10 @@
 
 ---
 
+<img width="1000" height="200" alt="U1 Data Governance Essentials" src="https://github.com/user-attachments/assets/c7d3fda8-92fb-44d2-afd6-082bfe4245f4" />
+
+<img width="1000" height="200" alt="U2 Data Regulations   Standards" src="https://github.com/user-attachments/assets/afcc9b26-6396-42b9-a102-37ce6da7e84a" />
+
 ### In progress • • •
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
