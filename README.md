@@ -18,7 +18,7 @@
 
 ---
 
-✨ *“Mapping data tools.”*
+✨ *“Mapping data tools”*
 
 ![GitHub - Banner Bottom](https://github.com/user-attachments/assets/52ddf5da-27ae-455e-814d-16a1f7db662f)
 
