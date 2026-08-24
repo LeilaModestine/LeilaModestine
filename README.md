@@ -9,6 +9,8 @@
 
 ---
 
+### Acquired 
+
 ### In progress • • •
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
