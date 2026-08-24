@@ -1,5 +1,5 @@
 
-#![GitHub - Banner Top](...)
+![GitHub - Banner Top](...)
 
 
 
@@ -20,7 +20,7 @@
 
 ✨ *“Mapping data tools”*
 
-#![GitHub - Banner Bottom](...)
+![GitHub - Banner Bottom](...)
 
 
 
