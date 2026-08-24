@@ -1,5 +1,5 @@
 
-![GitHub - Banner Top](https://github.com/user-attachments/assets/7e1bc573-607a-4985-aa92-d8242653618f)
+#![GitHub - Banner Top](...)
 
 
 
@@ -20,7 +20,7 @@
 
 ✨ *“Mapping data tools”*
 
-![GitHub - Banner Bottom](https://github.com/user-attachments/assets/52ddf5da-27ae-455e-814d-16a1f7db662f)
+#![GitHub - Banner Bottom](...)
 
 
 
