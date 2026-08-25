@@ -9,7 +9,7 @@
 
 ---
 
-### Acquired 
+### Acquired •
 
 ### In progress • • •
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks)
